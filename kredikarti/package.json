@@ -1,0 +1,15 @@
+{
+  "name": "kart-dogrulama",
+  "version": "1.0.5",
+  "description": "kredi karti numarasi dogrulugu kontrol eder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kart",
+    "dogrulama"
+  ],
+  "author": "Emir Subasi",
+  "license": "ISC"
+}
